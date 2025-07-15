@@ -28,7 +28,7 @@
         break;
       default:
         
-        window.location.href = "webcodem.github.io";
+        window.location.href = "webcodem1.github.io";
         break;
     }
  } 
